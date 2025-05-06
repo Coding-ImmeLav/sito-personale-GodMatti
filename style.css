@@ -204,11 +204,12 @@ a {
 }
 
 .immagine {
-    width: 80%;
-    padding: 3%;
+    width: 70%; 
+    padding: 10%;
 }
 
 .relazione-secondo {
     display: flex;
     background-color: lightseagreen;
+    font-size: 15px;
 }
