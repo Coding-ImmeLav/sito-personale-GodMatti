@@ -266,3 +266,8 @@ a {
 .intro-stage {
     margin-left: 10%;
 }
+
+.train {
+    padding: 30px;
+    width: 26%; 
+}
