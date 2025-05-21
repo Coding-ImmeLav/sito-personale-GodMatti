@@ -115,11 +115,13 @@ footer > div {
 .contenitore {
     width: 40%;
     background-color: lightskyblue;
-    height: 35%;
+    height: 53%;
     margin: 30px;
     display: flex;
     justify-content: center;
     align-items: center;
+    font-size: 15px;
+    padding: 20px;
 }
 
 /* animazione quando passo con il mouse sui contenitori */
@@ -129,6 +131,7 @@ footer > div {
 }
 
 .cv {
+    margin-top: 20%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -180,8 +183,11 @@ a {
 
 
 .testo {
-    text-align: center;
-    width: 60%; /*larghezza del div*/
+   text-align: center;
+    justify-content: center;
+    width: 60%;
+    margin-right: 11%;
+    
 }
 
 .intro-stage {
@@ -250,6 +256,7 @@ a {
     font-size: 15px;
     width: 60%;
     margin-left: 20%;
+    text-align: left;
 }
 
 .titolo {
