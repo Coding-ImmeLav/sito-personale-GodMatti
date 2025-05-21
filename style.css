@@ -232,7 +232,8 @@ a {
 }
 
 .Nika {
-    padding: 30px;
+    padding: 20px;
+    width: 30%;
 }
 
 .calcio {
@@ -241,8 +242,8 @@ a {
 }
 
 .musica {
-     padding: 30px;
-     width: 40%;
+    padding: 30px;
+    width: 26%;
 }
 
 .paragrafo {
@@ -255,6 +256,6 @@ a {
     padding: 5%;
 }
 
-.intro-stage{
+.intro-stage {
     margin-left: 10%;
 }
