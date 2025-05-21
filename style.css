@@ -244,3 +244,17 @@ a {
      padding: 30px;
      width: 40%;
 }
+
+.paragrafo {
+    font-size: 15px;
+    width: 60%;
+    margin-left: 20%;
+}
+
+.titolo {
+    padding: 5%;
+}
+
+.intro-stage{
+    margin-left: 10%;
+}
