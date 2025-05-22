@@ -232,9 +232,10 @@ a {
 }
 
 .imgod {
-  width: 200px;
+  width: 400px;
   height: auto;
   border-radius: 10px;
+  justify-content: center;
 }
 
 .Nika {
@@ -261,6 +262,7 @@ a {
 
 .titolo {
     padding: 5%;
+    font-size: 30px;
 }
 
 .intro-stage {
